@@ -43,6 +43,15 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 3. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 4. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
 
+## Related Tools
+
+- [App Store character limits reference](https://shotlingo.com/tools/app-store-character-limits) — every App Store & Play Store field's character limit in one place
+- [App Store screenshot sizes reference](https://shotlingo.com/tools/screenshot-sizes) — current screenshot size requirements for every slot
+
 ## Books
 
 1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
+
+---
+
+<sub>Cross-linked by [the AI screenshot localizer](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
