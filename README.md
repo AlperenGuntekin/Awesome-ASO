@@ -1,5 +1,7 @@
 # Awesome-ASO App Store Optimization
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list about App Store Optimization info, resources and tools.
 
 _To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md._
@@ -54,4 +56,4 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 ---
 
-<sub>Cross-linked by [the AI screenshot localizer](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
+<sub>Cross-linked by [ASO screenshot tool](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
