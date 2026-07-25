@@ -48,7 +48,8 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 ## Related Tools
 
 - [App Store character limits reference](https://shotlingo.com/tools/app-store-character-limits) — every App Store & Play Store field's character limit in one place
-- [App Store screenshot sizes reference](https://shotlingo.com/tools/screenshot-sizes) — current screenshot size requirements for every slot
+- [App Store screenshot sizes reference](https://shotlingo.com/tools/app-store-screenshot-sizes) — current screenshot size requirements for every slot
+- [App Store localization checker](https://shotlingo.com/tools/app-store-localization-checker) — text expansion, RTL, and font requirements for all 41 App Store languages
 
 ## Books
 
@@ -56,4 +57,4 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 ---
 
-<sub>Cross-linked by [ASO screenshot tool](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
+<sub>Cross-linked by [App Store localization checker](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
