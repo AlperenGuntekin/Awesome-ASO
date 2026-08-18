@@ -57,4 +57,4 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 ---
 
-<sub>Cross-linked by [AI screenshot localizer](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
+<sub>Cross-linked by [App Store screenshot generator](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
