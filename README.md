@@ -1,6 +1,7 @@
 # Awesome-ASO App Store Optimization
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
 A curated list about App Store Optimization info, resources and tools.
 
@@ -57,4 +58,4 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 ---
 
-<sub>Cross-linked by [App Store screenshot generator](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
+<sub>Cross-linked by [AI screenshot localizer](https://shotlingo.com), Shotlingo — generate localized App Store screenshots for 40+ languages.</sub>
