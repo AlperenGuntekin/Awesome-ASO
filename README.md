@@ -54,7 +54,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 ## Services
 
-- [Ignura](https://ignura.com) - London app launch studio: App Store screenshots, launch films, landing pages, UGC.
+- [Ignura](https://ignura.com) - a launch studio for consumer apps, prosumer tools and B2B: launch films, App Store screenshots, landing pages, UGC.
 
 ## Books
 
